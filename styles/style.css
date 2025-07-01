@@ -2000,4 +2000,6 @@
                filter: drop-shadow(0 1px 15px #0089ED); }
        .data__item--active::before {
          background-color: #0089ED; }
- 
+ .header__logo-icon {
+  margin-left: 25px;  
+ }
